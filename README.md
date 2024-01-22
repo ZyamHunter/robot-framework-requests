@@ -54,7 +54,6 @@ Instale a ferramenta `virtualenv` para criar ambientes virtuais de aprendizado:
 - Robot Framework
 - Massa de Dados
 - Geração de Report
-- Report dos testes no Slack
 
 <br/>
 
