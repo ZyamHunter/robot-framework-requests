@@ -1,5 +1,3 @@
-[![Standard](https://github.com/ZyamHunter/robot-framework-requests/actions/workflows/standard.yaml/badge.svg)](https://github.com/ZyamHunter/robot-framework-requests/actions/workflows/standard.yaml)
-
 # Projeto de automação Robot
 Projeto criado para rodar testes automatizados de aceitação (e2e)no back-end, utilizando as tecnologias do Robot Framework. Os testes devem ser capazes de serem rodados localmente e na pipeline
 
@@ -59,3 +57,8 @@ Instale a ferramenta `virtualenv` para criar ambientes virtuais de aprendizado:
 
 **Executar teste regressivo**
 > npm run api
+
+
+## EXTRAS
+- [KEYWORD DOCUMENTATION REQUESTS](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html#GET%20On%20Session)
+- [API UTILIZADA NOS TESTES](https://jsonplaceholder.typicode.com/)
