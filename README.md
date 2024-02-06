@@ -29,9 +29,6 @@ Instale a ferramenta `virtualenv` para criar ambientes virtuais de aprendizado:
 ## 6. Remover cache do pip
 - pip cache remove *
 
-## 7. Rodar os testes
-- robot -d logs ./src
-
 ## 8. Desativar ambiente virtual
 - deactivate
 
